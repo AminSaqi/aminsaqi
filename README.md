@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amin Saqi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Software engineer (16+ years), Quantitative developer (4+ years), Quantitative trader (3+ years), ML engineer (1+ years)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminsaqi" alt="aminsaqi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminsaqi" alt="aminsaqi" /></a> </p>
 
 - 🔭 I’m currently working on [QuantCT app](https://app.quantct.com)
 

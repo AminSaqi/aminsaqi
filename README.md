@@ -64,9 +64,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on [QuantCT app](https://app.quantct.com)
-
-- 🌱 I’m currently learning **ML in trading and investments**
+- 🔭 I’m currently working on [الگویو | AlgoU](https://algou.ir)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aminsaqi/](https://www.linkedin.com/in/aminsaqi/)
 
@@ -74,14 +72,12 @@
 
 - 📫 How to reach me **amin@quantct.com**
 
-- ⚡ Fun fact **I'm actively looking for an angel investor for the QuantCT app!**
-
 <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_aminsaqi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_aminsaqi_" height="30" width="40" /></a>
+<a href="https://twitter.com/amin_algo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_aminsaqi_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aminsaqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aminsaqi" height="30" width="40" /></a>
-<a href="https://instagram.com/aminsaqi.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aminsaqi.official" height="30" width="40" /></a>
+<a href="https://instagram.com/amin_algo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aminsaqi.official" height="30" width="40" /></a>
 </p>
 

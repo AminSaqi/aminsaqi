@@ -70,7 +70,7 @@
 
 - 💬 Ask me about **Quantitative development and trading**
 
-- 📫 How to reach me **amin@quantct.com**
+- 📫 How to reach me **amin_algo@proton.me**
 
 <br/>
 
